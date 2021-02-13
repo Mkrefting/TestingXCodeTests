@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "454DF4AE-8792-4A44-990D-FF4D31B09BCD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09AED8F2-AC02-4B5A-A82B-6323E87DF555"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestingTestsTests/TestingTestsTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "TestingTestsTests"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "09AED8F2-AC02-4B5A-A82B-6323E87DF555 - 985a030437b2a19e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestingTestsTests.TestingTestsTests.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; TestingTestsTests.TestingTestsTests"
+                  moduleName = "TestingTestsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxkrefting/Desktop/TestingTests/TestingTestsTests/TestingTestsTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "66">
+               </Location>
+               <Location
+                  uuid = "09AED8F2-AC02-4B5A-A82B-6323E87DF555 - 58241563e38c4bbe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestingTestsTests.TestingTestsTests.init(selector: ObjectiveC.Selector) -&gt; TestingTestsTests.TestingTestsTests"
+                  moduleName = "TestingTestsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxkrefting/Desktop/TestingTests/TestingTestsTests/TestingTestsTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "66">
+               </Location>
+               <Location
+                  uuid = "09AED8F2-AC02-4B5A-A82B-6323E87DF555 - 283cf6263d306b04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestingTestsTests.TestingTestsTests.init() -&gt; TestingTestsTests.TestingTestsTests"
+                  moduleName = "TestingTestsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxkrefting/Desktop/TestingTests/TestingTestsTests/TestingTestsTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "50">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
